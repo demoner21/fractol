@@ -2,11 +2,11 @@
 
 Pyfractol is a Python program for rendering fractals using Pygame. It is capable of rendering the Mandelbrot Set and some other fractals.
 Requirements
-
+```
     Pygame
     Numpy
     Numba
-
+```
 ## Usage
 
 To run the program, simply execute the main.py file.
